@@ -3,6 +3,8 @@
 Welcome to my Netflix landing page clone! As a beginner learning HTML and CSS, I decided to challenge myself by recreating the Netflix landing page. This project was a fantastic opportunity to practice my front-end development skills and gain hands-on experience with web design.
 
 # Result :
+![Result](https://github.com/arbasil05/Netflix--Landing-Page/assets/144218037/f91956f9-fda2-499f-a9a7-33a874c65577)
+
 
 # HTML Code :
 ```
