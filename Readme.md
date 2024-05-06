@@ -182,3 +182,6 @@ Netflix - https://www.netflix.com/in/
 Background image - https://netflixtechblog.com/a-day-in-the-life-of-an-experimentation-and-causal-inference-scientist-netflix-388edfb77d21
 
 Logo - https://www.pngwing.com/en/free-png-hnwne#google_vignette
+
+![GitHub profile picture](https://github.com/arbasil05.png)
+
